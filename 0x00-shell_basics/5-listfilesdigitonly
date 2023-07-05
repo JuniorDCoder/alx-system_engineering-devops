@@ -1,2 +1,1 @@
-#!/bin/bash
-ls -lanh
+#!/bin/bash\nls -an
