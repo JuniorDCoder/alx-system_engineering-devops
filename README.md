@@ -1,2 +1,2 @@
 #!/bin/bash
-Intro to shell and DevOps Systems Engineering by ALX
+0x02. Shell, I/O Redirections and filters
